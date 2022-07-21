@@ -1,13 +1,14 @@
 # foody project
 
 BUILT WITH: <br>
-This application has been made with JavaScript, HTML and SCSS.
+This application has been made with JavaScript, HTML and SCSS following the MVC architecture and using the publisher-subscriber pattern.
+<br><br>
 
 TRY THIS APP HERE: <br>
 https://foody-fabio.netlify.app
 
 DESCRIPTION OF THE APP: <br>
-The user can insert food names in the search bar and thanks to the Forkify API will get back all the recipes including the searched food.
+The user can insert food names in the search bar and thanks to the Forkify API will get back all the related recipes.
 If the recipes are more than 10, a button will appear to move back and forth between the different pages to see all the recipes available.
 It's then possible to bookmark your favourite recipes to save them for the future.
 Another feature of this app is that you can also add your own recipes that will be then automatically bookmarked.
